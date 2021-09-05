@@ -1,0 +1,21 @@
+{
+    "name": "simplecode",
+    "displayName": "SimpleCode",
+    "description": "a clean color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SimpleCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SimpleCode-color-theme.json"
+            }
+        ]
+    }
+}
